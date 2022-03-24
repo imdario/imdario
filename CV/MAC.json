@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Dario",
+      "surnames": "Castañé",
+      "title": "",
+      "description": "",
+      "location": {
+        "notes": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/imdario"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/darccio"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
